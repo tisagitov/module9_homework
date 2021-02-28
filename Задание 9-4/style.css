@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(to right, #114357, #f29492);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+}
+
+.input-form {
+  width: 500px;
+  margin: 40px auto 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-wraper {
+  margin: 5px auto;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#btn {
+  width: 300px;
+  margin: 10px auto;
+  background: #613659;
+  color: #fff;
+  font-size: 16px;
+  padding: 4px 8px;
+  border: none;
+  border-radius: 2px;
+}
